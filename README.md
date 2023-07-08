@@ -1,4 +1,4 @@
-# marseille_climate_trend
+# Extracting climate data for a point of interest from E-OBS climate data
 In this script I show how to extract climate data of an area of interest from E-OBS data.
 E-OBS data can be downloaded from the Copernicus platform using this link : https://cds.climate.copernicus.eu/cdsapp#!/dataset/insitu-gridded-observations-europe?tab=form
 The spatial coverage of E-OBS data is the entire Europe. Temporal coverage is from 1950 to now.
